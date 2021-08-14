@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "mail.credentials",
+      "type": "io.ekstrai.apps.boilerplate.config.ImmutableConfigProperties",
+      "sourceType": "io.ekstrai.apps.boilerplate.config.ImmutableConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mail.credentials.auth-method",
+      "type": "java.lang.String",
+      "sourceType": "io.ekstrai.apps.boilerplate.config.ImmutableConfigProperties"
+    },
+    {
+      "name": "mail.credentials.password",
+      "type": "java.lang.String",
+      "sourceType": "io.ekstrai.apps.boilerplate.config.ImmutableConfigProperties"
+    },
+    {
+      "name": "mail.credentials.username",
+      "type": "java.lang.String",
+      "sourceType": "io.ekstrai.apps.boilerplate.config.ImmutableConfigProperties"
+    }
+  ],
+  "hints": []
+}
